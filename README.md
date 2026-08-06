@@ -4,8 +4,7 @@ This is my personal C++ study repository.
 
 It includes custom implementations of STL-like components, algorithm practice, and more.
 
-I am currently studying Computer Engineering at the University of Utah.
-In addition to what I learn in class, I use this space to explore my own interests and deepen my understanding of C++ through hands-on implementation.
+I used this space to explore my own interests and deepen my understanding of C++ through hands-on implementation, when I was studying at the University of Utah.
 
 
 ## Purpose
@@ -41,7 +40,7 @@ The goal of this repository is to reinforce my C++ skills beyond the classroom b
 You can clone this repository with:
 
 ```bash
-git clone https://github.com/remydzn/cpp-study.git
+git clone https://github.com/iceTo1/cpp-study.git
 ```
 All files are written and tested using Visual Studio on Windows.
 
